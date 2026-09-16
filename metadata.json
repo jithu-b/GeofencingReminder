@@ -1,0 +1,6 @@
+{
+  "name": "GeoRemind",
+  "description": "Smart geofencing-based reminder app that alerts you when you arrive near your tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
